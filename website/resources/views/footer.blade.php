@@ -3,6 +3,6 @@
       <h5 class="card-title">Special Order</h5>
     </div>
     <div class="card-footer text-muted">
-      within 2 days
+      within 10 days
     </div>
   </div>
